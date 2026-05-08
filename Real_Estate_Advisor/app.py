@@ -724,3 +724,7 @@ with tab_market:
         )
         st.dataframe(locality_view, width="stretch", hide_index=True, height=360)
         st.markdown("</div>", unsafe_allow_html=True)
+
+
+#cd C:\Users\mikez\PycharmProjects\RealEstateAdvisor\Real_Estate_Advisor
+# streamlit run app.py
