@@ -12,7 +12,7 @@ reg = None
 benchmark_lookups = None
 classification_features = None
 regression_features = None
-
+#needs to change this line otherwise it will crash 
 
 def _load_models():
     global model_bundle, clf, reg, benchmark_lookups, classification_features, regression_features
